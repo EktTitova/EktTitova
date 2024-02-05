@@ -1,16 +1,34 @@
-### Hi there 👋
+### Привет 👋
 
-<!--
-**EktTitova/EktTitova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p> <a href="https://t.me/Ekt_Sky"><![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white)></a> </p>
 
-Here are some ideas to get you started:
+### Меня зовут Титова Екатерина :raising_hand: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Я занимаюсь Data Science. 
+
+Приняла решение перейти из финансовой сферы в аналитику больших данных в связи с интересом к технологиям машинного обучения. В совершенстве знаю Excel, а Python предоставляет еще больше инструментов и методов в обработке данный и ее оптимизации. Длительный опыт в бухгалтерской и финансовой сфере, работа в стартапах на этапе их запуска подтолкнула к изучению современных технологий. Участвовала в командном хакатоне Яндекс Музыки и Завод по NLP. Читаю специализированную литературу.
+
+###### Databases: 
+PostgreSQL, MySQL
+
+###### Data Science: 
+Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
+<br><br>
+<h3>My Repositories</h3>
+
+<table width=100%>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+    </tr>
+  </thead>
+  <tbody>
+
+<tr>
+      <td><a href="https://github.com/akylson/Terraform_Projects"><b>Проекты Хакатонов</b></a></td>
+</tr>    
+    <tr>
+      <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects"><b>Яндекс.Практикум Data-Science Проекты</b></a></td>
+      </tr>
+  </tbody>
+</table>
