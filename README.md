@@ -25,10 +25,10 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
   <tbody>
 
 <tr>
-      <td><a href="https://github.com/akylson/Terraform_Projects"><b>Проекты Хакатонов</b></a></td>
+      <td><a href="https://github.com/EktTitova/Hakaton-Projects"><b>Проекты Хакатонов</b></a></td>
 </tr>    
     <tr>
-      <td><a href="https://github.com/akylson/yandex-praktikum-data-science-projects"><b>Яндекс.Практикум Data-Science Проекты</b></a></td>
+      <td><a href="https://github.com/EktTitova/Yandex.Practicum-Data-Science-Projects"><b>Яндекс.Практикум Data-Science Проекты</b></a></td>
       </tr>
   </tbody>
 </table>
